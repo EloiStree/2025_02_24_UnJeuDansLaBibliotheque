@@ -1,25 +1,34 @@
-# Un Jeu Dans La Bibliotheque
 
-Nous allons créer un jeu sur Quest 3 dans la bibliothèque du 300 Gaming Space avec Unity3D.
+
+# Un Jeu Dans La Bibliothèque  
+
+Nous allons créer un jeu sur **Quest 3** dans la bibliothèque du **300 Gaming Space** avec **Unity3D**.  
 
 [![image](https://github.com/user-attachments/assets/040d132d-2cb6-45d7-94b5-2e1bba74e63a)](https://sketchfab.com/3d-models/outer-wilds-the-ship-f6797d8650794c8387708f7ef78ee0d5)  
- https://sketchfab.com/3d-models/outer-wilds-the-ship-f6797d8650794c8387708f7ef78ee0d5  
+🔗 [Outer Wilds - The Ship (Sketchfab)](https://sketchfab.com/3d-models/outer-wilds-the-ship-f6797d8650794c8387708f7ef78ee0d5)  
 
-**L'atelier:**
-- **C'est quoi Unity3D ? Un premier niveau**  
-  - Matin: Je montre ce qu'est Unity3D et on crée un niveau avec des cubes et des sphères.
-  - Après-midi: Dessiner en VX sur les casques des mesures de la bibliothèqe
-- **Outer Wilds Ship**  
-  - Je donne, dans Unity3D, un vaisseau qui bouge via des propulsions, il faut créé un niveau en utilisant le scanner de volume de la pièce.
-  - Après-midi: créer un circuit à la dragon fly avec Open brush
-- **ProBuilder et la 3D pour créer un niveau.**
-  - Matin: Je montre comment créer un niveau en 3D avec ProBuilder pour modéliser le volume de la pièce.
-    - Un palette de couleur est donné pour l'exercice (histoire d'avoir la même ambiance)
-  - Après-midi: créer des iles flottantes et des décors
-- **Déposer des objets dans Unity3D.**  
-  - Matin: Je montre comment chercher des objets de l'Asset Store et SketchFab
-  - Après-Midi: Je donne des assets de plantes pour ajouter au niveau.
-- **Finaliser votre premier jeu dans la bibliothèque.**  
-  - Matin: On ajoute un chronomètre et les points de passage et on essaye de faire les meilleurs temps
-  - Après-Midi: On test les niveaux des autres
-**Le plan de la semaine**: Faire un niveau avec le vaisseau dans la bibliothèqe dont le niveau boucle tout les 5 minutes
+## **L'atelier :**  
+
+### **1. C'est quoi Unity3D ? Un premier niveau**  
+- **Matin :** Introduction à Unity3D et création d’un niveau avec des cubes et des sphères.  
+- **Après-midi :** Dessin en VR sur les casques pour prendre les mesures de la bibliothèque.  
+
+### **2. Outer Wilds Ship**  
+- **Matin :** Dans Unity3D, ajout d’un vaisseau contrôlable par propulsion. Création d’un niveau en utilisant le volume de la pièce.  
+- **Après-midi :** Création d’un circuit façon *Dragonfly* avec **Open Brush** hors Unity3D.  
+
+### **3. ProBuilder et la 3D pour créer un niveau**  
+- **Matin :** Initiation à **ProBuilder** pour modéliser des élements la pièce en 3D.  
+  - Une palette de couleurs est fournie pour assurer une cohérence visuelle.  
+- **Après-midi :** Création d’îles flottantes et ajout de décors.  
+
+### **4. Déposer des objets dans Unity3D**  
+- **Matin :** Recherche d’objets dans **l’Asset Store** et **Sketchfab**.  
+- **Après-midi :** Ajout d’assets de plantes pour enrichir le niveau.  
+
+### **5. Finaliser votre premier jeu dans la bibliothèque**  
+- **Matin :** Ajout d’un chronomètre et de points de passage pour améliorer le gameplay.  
+- **Après-midi :** Test des niveaux créés par les autres participants.  
+
+### **📌 Le plan de la semaine :**  
+Créer un niveau avec le vaisseau dans la bibliothèque, où la boucle de jeu se renouvelle toutes les **5 minutes**.  
