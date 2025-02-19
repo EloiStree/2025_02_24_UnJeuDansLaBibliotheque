@@ -32,3 +32,11 @@ Nous allons créer un jeu sur **Quest 3** dans la bibliothèque du **300 Gaming 
 
 ### **📌 Le plan de la semaine :**  
 Créer un niveau avec le vaisseau dans la bibliothèque, où la boucle de jeu se renouvelle toutes les **5 minutes**.  
+
+
+
+
+-------------
+
+Vidéo du vaisseau utiliser dans l'atelier:   
+https://youtu.be/1rozpH0KadY?t=2  
