@@ -14,7 +14,7 @@ Nous allons créer un jeu sur **Quest 3** dans la bibliothèque du **300 Gaming 
 - **Après-midi :** Dessin en VR sur les casques pour prendre les mesures de la bibliothèque.  
 
 ### **2. Outer Wilds Ship**  
-- **Matin :** Dans Unity3D, ajout d’un vaisseau contrôlable par propulsion. Création d’un niveau en utilisant le volume de la pièce.  
+- **Matin :** Dans Unity3D, utiliser le vaisseau contrôlable par propulsion. Création d’un niveau en utilisant le volume de la pièce.  
 - **Après-midi :** Création d’un circuit façon *Dragonfly* avec **Open Brush** hors Unity3D.  
 
 ### **3. ProBuilder et la 3D pour créer un niveau**  
