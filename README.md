@@ -57,6 +57,27 @@ Vidéos :
 - https://www.youtube.com/watch?v=EOdvrtVJ1QA&t=3143s  
 - https://youtu.be/VtunCfFs4_o?t=907  
 
+
+
+Used:
+```
+    "be.elab.blockscolor": "https://github.com/EloiStree/2024_10_16_BlocksColor.git",
+    "be.elab.droneracestepmesh": "https://github.com/EloiStree/2024_06_31_DroneRaceStep.git",
+    "be.elab.forfun300": "https://github.com/EloiStree/2025_02_24_ForFunDrones300.git",
+    "be.elab.irctoy": "https://github.com/EloiStree/2024_09_15_IToyControllerRC.git",
+    "be.elab.levelg300": "https://github.com/EloiStree/2025_02_25_LevelGaming300.git",
+    "be.elab.outership": "https://github.com/EloiStree/2025_02_18_OuterWildsShip.git",
+    "be.elab.patounerace": "https://github.com/EloiStree/2024_10_02_PatouneRace.git",
+    "be.elab.quickfollowit": "https://github.com/EloiStree/2024_09_16_QuickFollowIt.git",
+    "be.elab.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
+    "be.elab.tellotoy": "https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode.git",
+    "be.elab.tickcollection": "https://github.com/EloiStree/OpenUMP_TickCollection.git",
+    "be.elab.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+    "be.elab.uvdrawabledrones": "https://github.com/EloiStree/2024_08_05_UvDrawableDrones.git",
+    "be.elab.xinputdotnet": "https://github.com/EloiStree/2020_11_26_XInputDotNet.git",
+
+```
+
 -------------  
 
 Vidéo du vaisseau utilisé dans l'atelier :   
